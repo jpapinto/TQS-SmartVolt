@@ -3,7 +3,7 @@
 This is the meta-repository for the **SmartVolt** project.  
 It contains all components as Git submodules.
 
-## Components
+## Repositories
 
 - [SmartVolt](https://github.com/jpapinto/SmartVolt)
 - [Documentation](https://github.com/jpapinto/Documentation)
