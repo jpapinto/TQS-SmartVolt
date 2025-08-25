@@ -3,6 +3,9 @@
 #### `Grade: 18/20` 
 
 This is the repository for the "Software Testing and Quality Control" Course Project.
+
+Web platform for real-time discovery, booking, charging, and operator management in the EV ecosystem. 
+Developed with a strong focus on software quality, testing automation, and DevOps practices.
  
 It contains all components as Git submodules, hosted in the organization **TQS-Project-SmartVolt**.
 
