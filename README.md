@@ -15,4 +15,4 @@ It contains all components as Git submodules, hosted in the organization **TQS-P
 
 ```bash
 git clone --recurse-submodules git@github.com:jpapinto/TQS-SmartVolt.git
-``
+```
