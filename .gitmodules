@@ -1,15 +1,15 @@
 [submodule "SmartVolt"]
 	path = SmartVolt
-	url = git@github.com:jpapinto/SmartVolt.git
+	url = git@github.com:TQS-Project-SmartVolt/SmartVolt.git
 [submodule "Documentation"]
 	path = Documentation
-	url = git@github.com:jpapinto/Documentation.git
+	url = git@github.com:TQS-Project-SmartVolt/Documentation.git
 [submodule "AppConfig"]
 	path = AppConfig
-	url = git@github.com:jpapinto/AppConfig.git
+	url = git@github.com:TQS-Project-SmartVolt/AppConfig.git
 [submodule "Backend"]
 	path = Backend
-	url = git@github.com:jpapinto/Backend.git
+	url = git@github.com:TQS-Project-SmartVolt/Backend.git
 [submodule "Frontend"]
 	path = Frontend
-	url = git@github.com:jpapinto/Frontend.git
+	url = git@github.com:TQS-Project-SmartVolt/Frontend.git
