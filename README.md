@@ -2,7 +2,7 @@
 
 #### `Grade: 18/20` 
 
-This is the meta-repository for the **SmartVolt** project.  
+This is the meta-repository for the "Software Testing and Quality Control" Course Project. 
 It contains all components as Git submodules, hosted in the organization **TQS-Project-SmartVolt**.
 
 ## Repositories
